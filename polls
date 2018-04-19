@@ -1,5 +1,5 @@
 git remote add origin git@github.com:sravfeyn/ps2.git
-2 git remote remove origin # if you run into permission-denied error
-3 git remote add origin https://github.com/<username>/<repo-name>.git
-4 git push -u origin master
-5 git pull origin friends_feature
+git remote remove origin # if you run into permission-denied error
+git remote add origin https://github.com/<username>/<repo-name>.git
+git push -u origin master
+git pull origin friends_feature
